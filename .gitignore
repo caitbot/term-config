@@ -1,0 +1,11 @@
+# OS X
+**/.DS_Store
+
+# JetBrains IDEs
+.idea
+
+# Vim
+**/*.swp
+
+# Python
+**/__pycache__
