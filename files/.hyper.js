@@ -162,16 +162,12 @@ module.exports = {
       ],
       profiles: [
         {
-      	  triggers: ["GNPMobile@"],
+      	  triggers: ["catie@"],
       	  backgroundColor: "#000"
       	},
         {
           triggers: ["root@"],
           backgroundColor: "#400"
-        },
-        {
-          triggers: ["@ceclnx01"],
-          backgroundColor: "#C8102E"
         },
       ],
       stripAnsiColors: true, //default
