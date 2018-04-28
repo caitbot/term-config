@@ -162,10 +162,6 @@ module.exports = {
       ],
       profiles: [
         {
-      	  triggers: ["catie@"],
-      	  backgroundColor: "#000"
-      	},
-        {
           triggers: ["root@"],
           backgroundColor: "#400"
         },
